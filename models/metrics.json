@@ -1,0 +1,18 @@
+{
+    "Prediction Type": "Current-Day Deliverable Volume Prediction",
+    "MAE": 350206.55,
+    "RMSE": 841158.53,
+    "R2 Score": 0.722,
+    "Target": "Deliverable Volume",
+    "Features": [
+        "Prev Close",
+        "Open",
+        "High",
+        "Low",
+        "Last",
+        "Close",
+        "VWAP",
+        "Volume",
+        "Turnover"
+    ]
+}
